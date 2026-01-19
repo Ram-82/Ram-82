@@ -12,33 +12,41 @@ I’m a Computer Science graduate and builder from India who loves turning ideas
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack & Tools
 
-**Languages:**
+### 💻 Languages
 
-* Python, Java, C++
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 
-**Frameworks & Libraries:**
+### 🌐 Frameworks & Libraries
 
-* Django, Flask
-* Web3.py, LangChain
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge\&logo=chainlink\&logoColor=white)
 
-**DevOps & Cloud:**
+### ☁ DevOps & Cloud
 
-* Docker / Podman
-* AWS Services
-* Git & GitHub
-* CI/CD Concepts
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-**Databases:**
+### 🗄 Databases
 
-* MySQL, PostgreSQL, MongoDB
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-**Tools I Use Daily:**
+### 🛠 Daily Tools
 
-* Visual Studio Code
-* Linux Environment
-* GitHub for collaboration
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
 
